@@ -6,6 +6,6 @@ Demo repo for learning github
 
 Watch the ting on youtube
 
-##Local Development ting
+## Local Development ting
 
-1. OPen the index file 
+1. Open the index file 

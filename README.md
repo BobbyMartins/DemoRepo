@@ -5,3 +5,7 @@ Demo repo for learning github
 ## Subheader 
 
 Watch the ting on youtube
+
+##Local Development ting
+
+1. OPen the index file 
